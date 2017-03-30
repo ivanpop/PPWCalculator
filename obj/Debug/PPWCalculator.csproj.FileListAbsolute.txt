@@ -1,0 +1,14 @@
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\bin\Debug\PPWCalculator.exe.config
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\bin\Debug\PPWCalculator.exe
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\bin\Debug\PPWCalculator.pdb
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.csprojResolveAssemblyReference.cache
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.Form1.resources
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.Properties.Resources.resources
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.csproj.GenerateResource.Cache
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.exe
+c:\users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.pdb
+C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\bin\Debug\PPWCalculator.exe.manifest
+C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\bin\Debug\PPWCalculator.application
+C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.TrustInfo.xml
+C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.exe.manifest
+C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.application
