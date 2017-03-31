@@ -222,7 +222,7 @@
             this.groupBox2.Controls.Add(this.label8);
             this.groupBox2.Controls.Add(this.label10);
             this.groupBox2.Controls.Add(this.label9);
-            this.groupBox2.Location = new System.Drawing.Point(12, 364);
+            this.groupBox2.Location = new System.Drawing.Point(12, 381);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(302, 107);
             this.groupBox2.TabIndex = 22;
@@ -342,7 +342,7 @@
             this.groupBox3.Controls.Add(this.EnergoProPricesLinkLabel);
             this.groupBox3.Controls.Add(this.CEZpricesLinkLabel);
             this.groupBox3.Controls.Add(this.EVNpricesLinkLabel);
-            this.groupBox3.Location = new System.Drawing.Point(12, 287);
+            this.groupBox3.Location = new System.Drawing.Point(14, 319);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(300, 54);
             this.groupBox3.TabIndex = 25;
@@ -377,7 +377,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(324, 481);
+            this.ClientSize = new System.Drawing.Size(324, 499);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.equation);
             this.Controls.Add(this.groupBox2);

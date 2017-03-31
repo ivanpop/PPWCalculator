@@ -96,9 +96,10 @@ namespace PPWCalculator
                 powerBox.Text = "0";
             }
 
-            if (validPower && power > 1)
+            if (validPower && power >= 1)
             {
                 double sum = 0;
+                equation.Visible = true;
 
                 if (oneScale.Checked)
                 {
@@ -110,10 +111,16 @@ namespace PPWCalculator
                     sum = (power / 1000) * dayPrice * (24 - Convert.ToInt32(nightHoursBox.Text)) + (power / 1000) * nightPrice * Convert.ToInt32(nightHoursBox.Text);
                     equation.Text = "(" + power.ToString() + "/1000) * " + dayPrice.ToString() + " * (24-" + nightHoursBox.Text + ") + (" + power.ToString() + "/1000) * " + nightPrice.ToString() + " * " + nightHoursBox.Text + " =";
                 }
-                
+
                 priceDay.Text = sum.ToString("0.00");
                 priceWeek.Text = (sum * 7).ToString("0.00");
                 priceMonth.Text = (sum * 30).ToString("0.00");
+            }
+
+            else
+            {
+                equation.Visible = false;
+                priceDay.Text = priceWeek.Text = priceMonth.Text = ("0.00");
             }
         }
 
