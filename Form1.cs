@@ -7,6 +7,15 @@ namespace PPWCalculator
 {
     public partial class Form1 : Form
     {
+        string EVNDayPrice = "2503";
+        string EVNNightPrice = "1422";
+
+        string CEZDayPrice = "22000";
+        string CEZNightPrice = "13000";
+
+        string EPRODayPrice = "2215";
+        string EPRONightPrice = "1226";
+
         public Form1()
         {
             InitializeComponent();
@@ -22,26 +31,26 @@ namespace PPWCalculator
                     {
                         cez.Checked = epro.Checked = false;
                         nightHoursBox.Text = "8";
-                        dayPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + "2066";
-                        nightPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + "11734";
+                        dayPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + EVNDayPrice;
+                        nightPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + EVNNightPrice;
                         break;
                     }
 
                 case 1:
-                    {
+                    {                 
                         evn.Checked = epro.Checked = false;
                         nightHoursBox.Text = "8";
-                        dayPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + "22000";
-                        nightPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + "13000";
+                        dayPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + CEZDayPrice;
+                        nightPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + CEZNightPrice;
                         break;
                     }
 
                 case 2:
-                    {
+                    {                
                         evn.Checked = cez.Checked = false;
                         nightHoursBox.Text = "8";
-                        dayPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + "21948";
-                        nightPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + "121404";
+                        dayPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + EPRODayPrice;
+                        nightPriceBox.Text = "0" + CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator + EPRONightPrice;
                         break;
                     }
 

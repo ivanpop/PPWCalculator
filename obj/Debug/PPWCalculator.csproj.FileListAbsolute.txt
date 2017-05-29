@@ -12,3 +12,17 @@ C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWC
 C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.TrustInfo.xml
 C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.exe.manifest
 C:\Users\ivanp\onedrive\documents\visual studio 2015\Projects\PPWCalculator\PPWCalculator\obj\Debug\PPWCalculator.application
+C:\Users\user\Documents\GitHub\PPWCalculator\bin\Debug\PPWCalculator.exe.config
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.exe
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.pdb
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.Form1.resources
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.TrustInfo.xml
+C:\Users\user\Documents\GitHub\PPWCalculator\bin\Debug\PPWCalculator.exe.manifest
+C:\Users\user\Documents\GitHub\PPWCalculator\bin\Debug\PPWCalculator.application
+C:\Users\user\Documents\GitHub\PPWCalculator\bin\Debug\PPWCalculator.exe
+C:\Users\user\Documents\GitHub\PPWCalculator\bin\Debug\PPWCalculator.pdb
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.exe.manifest
+C:\Users\user\Documents\GitHub\PPWCalculator\obj\Debug\PPWCalculator.application
