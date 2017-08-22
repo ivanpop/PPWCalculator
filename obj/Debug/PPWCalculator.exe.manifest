@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PPWCalculator.exe" size="394752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PPWCalculator.exe" size="576512">
       <assemblyIdentity name="PPWCalculator" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>J7wKaJ3eANPqgcrOmmzIhaad+dVokP6wroeq5ez6OJQ=</dsig:DigestValue>
+        <dsig:DigestValue>K/hnuKEgvVsBV+787pZ+k5NdXu45uVXbIHqtkB9wTuw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

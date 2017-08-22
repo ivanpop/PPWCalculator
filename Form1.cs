@@ -7,14 +7,14 @@ namespace PPWCalculator
 {
     public partial class Form1 : Form
     {
-        string EVNDayPrice = "2503";
-        string EVNNightPrice = "1422";
+        string EVNDayPrice = "2121";
+        string EVNNightPrice = "12052";
 
         string CEZDayPrice = "22000";
         string CEZNightPrice = "13000";
 
-        string EPRODayPrice = "2215";
-        string EPRONightPrice = "1226";
+        string EPRODayPrice = "22242";
+        string EPRONightPrice = "12312";
 
         public Form1()
         {
@@ -212,6 +212,12 @@ namespace PPWCalculator
         private void EnergoProPricesLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Process.Start("https://www.energo-pro.bg/bg/Dejstvashti-ceni-na-elektroenergiyata-Bitovi-klienti");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            PricesHistory form = new PricesHistory();
+            form.Show();
         }
     }
 }
